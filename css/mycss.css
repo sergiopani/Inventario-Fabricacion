@@ -1,0 +1,29 @@
+html, body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+
+}
+
+.scrolled {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.scrolled-hidden {
+    overflow: hidden;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+}
+
+.green-color {
+    background-color: #00ff00;
+}
+
+select{
+    height: 60px;
+}
+
